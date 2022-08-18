@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin Yues-Air.attlocal.net 20.6.0 Darwin Kernel Version 20.6.0: Tue Jun 21 20:50:27 PDT 2022; root:xnu-7195.141.32~1/RELEASE_ARM64_T8101 x86_64
+SHELL:	[/bin/bash]
+GIT:	[/usr/bin/git] git version 2.32.0 (Apple Git-132)
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 8.2 (2019 Dec 12, compiled Jun 23 2022 20:07:28)
+CURL:	[/Users/yueyan/opt/anaconda3/bin/curl] curl 7.78.0 (x86_64-apple-darwin13.4.0) libcurl/7.78.0 OpenSSL/1.1.1l zlib/1.2.11 libssh2/1.9.0 nghttp2/1.41.0
+NODE:	[/Users/yueyan/.nvm/versions/node/v16.17.0/bin/node] v16.17.0
